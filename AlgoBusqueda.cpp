@@ -34,17 +34,17 @@ int main()
     // STOP_TIMING(t);
     // SHOW_TIMING(t, "My timer");
 
-    DECLARE_TIMING(t1);
-    START_TIMING(t1);
-    cout << "Sorted Sequential Search 1: " << test.sortedSequentialSearch1() << endl;
-    STOP_TIMING(t1);
-    SHOW_TIMING(t1, "My timer");
+    // DECLARE_TIMING(t1);
+    // START_TIMING(t1);
+    // cout << "Sorted Sequential Search 1: " << test.sortedSequentialSearch1() << endl;
+    // STOP_TIMING(t1);
+    // SHOW_TIMING(t1, "My timer");
 
-    DECLARE_TIMING(t2);
-    START_TIMING(t2);
-    cout << "Sorted Sequential Search 2: " << test.sortedSequentialSearch2(step) << endl;
-    STOP_TIMING(t2);
-    SHOW_TIMING(t2, "My timer");
+    // DECLARE_TIMING(t2);
+    // START_TIMING(t2);
+    // cout << "Sorted Sequential Search 2: " << test.sortedSequentialSearch2(step) << endl;
+    // STOP_TIMING(t2);
+    // SHOW_TIMING(t2, "My timer");
 
     DECLARE_TIMING(t3);
     START_TIMING(t3);
